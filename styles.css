@@ -34,7 +34,7 @@ body {
 /* Style the header */
 header {
     text-align: center;
-    padding: 3px 1; /* Further reduced padding */
+    padding: 15px 1; /* Further reduced padding */
     color: #ffffff; /* Text color for the header */
     background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for the header */
     position: relative; /* Position the header relative to the body */
