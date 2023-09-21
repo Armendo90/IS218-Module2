@@ -22,7 +22,7 @@ body {
 
 /* Style the content within the resume */
 .container {
-    max-width: 1000px;
+    max-width: 2200px;
     margin: auto;
     padding: 2px; /* Further reduced padding */
     background-color: #808080; /* Add a semi-transparent background to the content */
