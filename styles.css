@@ -24,7 +24,7 @@ body {
 .container {
     max-width: 800px;
     margin: auto;
-    padding: 3px; /* Further reduced padding */
+    padding: 2px; /* Further reduced padding */
     background-color: grey; /* Add a semi-transparent background to the content */
     position: relative; /* Position the content relative to the body */
     z-index: .5; /* Ensure content is above the background image */
@@ -35,7 +35,7 @@ body {
 header {
     text-align: center;
     padding: 3px 1; /* Further reduced padding */
-    color: Grey; /* Text color for the header */
+    color: white; /* Text color for the header */
     background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for the header */
     position: relative; /* Position the header relative to the body */
     z-index: 2; /* Ensure header is above the background image */
@@ -53,14 +53,14 @@ section {
 
 /* Style headings */
 h1, h2, h3 {
-    font-family: 'CursiveFont', cursive; /* Replace 'CursiveFont' with your chosen creative font */
-    color: #ff00ff; /* Replace with your unique color code */
-    font-size: 14px; /* Further reduced font size */
+    font-family: 'CursiveFont', Georgia; /* Replace 'CursiveFont' with your chosen creative font */
+    color: #Black; /* Replace with your unique color code */
+    font-size: 18px; /* Further reduced font size */
 }
 
 /* Style links */
 a {
-    color: #0077cc; /* Link color */
+    color: Blue; /* Link color */
     text-decoration: none;
 }
 
