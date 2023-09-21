@@ -27,7 +27,7 @@ body {
     padding: 2px; /* Further reduced padding */
     background-color: #000; /* Add a semi-transparent background to the content */
     position: relative; /* Position the content relative to the body */
-    z-index: .5; /* Ensure content is above the background image */
+    z-index: 2; /* Ensure content is above the background image */
     margin-top: 1%;
 }
 
