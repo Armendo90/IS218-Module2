@@ -12,7 +12,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0; /* Remove default margin to fill the entire viewport */
     padding: 0;
-    color: ##ffffff; /* Set text color for the entire resume */
+    color: #ffffff; /* Set text color for the entire resume */
     position: relative; /* Position the content relative to the body */
     overflow: hidden;
     display: flex;
@@ -25,7 +25,7 @@ body {
     max-width: 1200px;
     margin: auto;
     padding: 2px; /* Further reduced padding */
-    background-color: #000; /* Add a semi-transparent background to the content */
+    background-color: #faf0e6; /* Add a semi-transparent background to the content */
     position: relative; /* Position the content relative to the body */
     z-index: 2; /* Ensure content is above the background image */
     margin-top: 1%;
@@ -36,7 +36,7 @@ header {
     text-align: center;
     padding: 10px; /* Further reduced padding */
     color: #ffffff; /* Text color for the header */
-    background-color: #0000ff; /* Semi-transparent background for the header */
+    background-color: #ADD8E6; /* Semi-transparent background for the header */
     position: relative; /* Position the header relative to the body */
     z-index: 2; /* Ensure header is above the background image */
 }
