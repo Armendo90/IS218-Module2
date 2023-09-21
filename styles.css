@@ -25,7 +25,7 @@ body {
     max-width: 800px;
     margin: auto;
     padding: 2px; /* Further reduced padding */
-    background-color: #ffffff; /* Add a semi-transparent background to the content */
+    background-color: #808080; /* Add a semi-transparent background to the content */
     position: relative; /* Position the content relative to the body */
     z-index: .5; /* Ensure content is above the background image */
     margin-top: 1%;
