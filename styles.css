@@ -12,7 +12,7 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0; /* Remove default margin to fill the entire viewport */
     padding: 0;
-    color: #0000; /* Set text color for the entire resume */
+    color: #000; /* Set text color for the entire resume */
     position: relative; /* Position the content relative to the body */
     overflow: hidden;
     display: flex;
@@ -35,7 +35,7 @@ body {
 header {
     text-align: center;
     padding: 10px; /* Further reduced padding */
-    color: #0000; /* Text color for the header */
+    color: #000; /* Text color for the header */
     background-color: #ADD8E6; /* Semi-transparent background for the header */
     position: relative; /* Position the header relative to the body */
     z-index: 2; /* Ensure header is above the background image */
@@ -54,13 +54,13 @@ section {
 /* Style headings */
 h1, h2 {
     font-family: 'Arial', sans-serif; /* Replace 'CursiveFont' with your chosen creative font */
-    color: #0000; /* Replace with your unique color code */
+    color: #000; /* Replace with your unique color code */
     font-size: 20px; /* Further reduced font size */
 }
 
 h3 {
     font-family: 'Arial', sans-serif; /* Replace 'CursiveFont' with your chosen creative font */
-    color: #0000; /* Replace with your unique color code */
+    color: #000; /* Replace with your unique color code */
     font-size: 16px; /* Further reduced font size */
 }
 
