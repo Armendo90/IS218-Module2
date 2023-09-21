@@ -54,13 +54,13 @@ section {
 /* Style headings */
 h1, h2 {
     font-family: 'Arial', sans-serif; /* Replace 'CursiveFont' with your chosen creative font */
-    color: #000; /* Replace with your unique color code */
+    color: #00000; /* Replace with your unique color code */
     font-size: 20px; /* Further reduced font size */
 }
 
 h3 {
     font-family: 'Arial', sans-serif; /* Replace 'CursiveFont' with your chosen creative font */
-    color: #000; /* Replace with your unique color code */
+    color: #00000; /* Replace with your unique color code */
     font-size: 16px; /* Further reduced font size */
 }
 
