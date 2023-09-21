@@ -34,8 +34,8 @@ body {
 /* Style the header */
 header {
     text-align: center;
-    padding: 3px 0; /* Further reduced padding */
-    color: #fff; /* Text color for the header */
+    padding: 3px 1; /* Further reduced padding */
+    color: Grey; /* Text color for the header */
     background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background for the header */
     position: relative; /* Position the header relative to the body */
     z-index: 2; /* Ensure header is above the background image */
