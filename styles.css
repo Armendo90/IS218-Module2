@@ -52,10 +52,16 @@ section {
 }
 
 /* Style headings */
-h1, h2, h3 {
+h1, h2 {
     font-family: 'Arial', sans-serif; /* Replace 'CursiveFont' with your chosen creative font */
     color: ##ffffff; /* Replace with your unique color code */
     font-size: 18px; /* Further reduced font size */
+}
+
+h3 {
+    font-family: 'Arial', sans-serif; /* Replace 'CursiveFont' with your chosen creative font */
+    color: ##ffffff; /* Replace with your unique color code */
+    font-size: 14px; /* Further reduced font size */
 }
 
 /* Style links */
